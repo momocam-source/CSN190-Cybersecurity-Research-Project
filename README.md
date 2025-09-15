@@ -1,1 +1,2 @@
-# CSN190-Cybersecurity-Research-Project
+Well hello there reader, my name is Muhamad Camara and this would be my 2nd year in BCC. I'd say my current knowledge in technology lies somewhere between the beginner level and intermediate. My understanding of networks I would also say is in the beginner level range and I have no prior experience, but I hope to learn more! I hope to expand my knowledge on networking systems, so I too can help the world in the same way the professor did, and hopefully land a good paying job. I am currently a fire life safety director is doesn't correlate much with the technology field, but i hope to someday be a network administrator.
+
